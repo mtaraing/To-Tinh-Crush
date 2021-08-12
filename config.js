@@ -1,11 +1,11 @@
 const CONFIG = {
     introTitle: 'Này đầu đất',
-    introDesc: `Tớ thấy... cậu
-    Tớ thấy rất ... cậu thoi
-    Ngày đêm cứ loay hoay
+    introDesc: `Tớ thấy... cậu.
+    Tớ thấy rất ... cậu thoi.
+    Ngày đêm cứ loay hoay...
     Trong suy nghĩ về ...
-    Cậu có ... tớ không?
-    Cậu có thấy nhớ ... hog?`,
+    Cậu có ... tớ hông?
+    Cậu có thấy hog?`,
     btnIntro: 'Hic hic 🥺🥺',
     title: 'Nè!!! Thoát ra coi chừng ăn dép đấy 😌😌',
     desc: 'Cậu có thưn tớ nhìu hog? 🥺🥺',
